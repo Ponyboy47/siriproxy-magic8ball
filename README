@@ -1,0 +1,2 @@
+This plugin is pretty simple and easy to use. Add the appropriate settings from the config-info.yml into your ~/.siriproxy/config.yml and bundle then start SiriProxy.
+Then all you do is ask a yes or no question that contains "magic eight ball". ie: "Ask the magic eight ball if I have blonde hair." And Siri will respond with one of the classic magic eight ball responses.
